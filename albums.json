@@ -1,38 +1,40 @@
-[
-  {
-    "Album": "Rumours",
-    "Artist": "Fleetwood Mac",
-    "Songs": [
-      "Go Your Own Way",
-      "Don't Stop",
-      "Dreams",
-      "You Make Loving Fun",
-      "The Chain"
-    ],
-    "Year": 1977
-  },
-  {
-    "Album": "Thriller",
-    "Artist": "Michael Jackson",
-    "Songs": [
-      "Billie Jean",
-      "Thriller",
-      "Beat It",
-      "Human Nature",
-      "P.Y.T. (Pretty Young Thing)"
-    ],
-    "Year": 1982
-  },
-  {
-    "Album": "Nevermind",
-    "Artist": "Nirvana",
-    "Songs": [
-      "Smells Like Teen Spirit",
-      "In Bloom",
-      "Come as You Are",
-      "Breed",
-      "Lithium"
-    ],
-    "Year": 1991
-  }
-]
+{
+  "albums": [
+    {
+      "title": "Album 1 Title",
+      "artist": "Artist 1 Name",
+      "year": "Year 1",
+      "tracks": [
+        "Track 1",
+        "Track 2",
+        "Track 3",
+        "Track 4",
+        "Track 5"
+      ]
+    },
+    {
+      "title": "Album 2 Title",
+      "artist": "Artist 2 Name",
+      "year": "Year 2",
+      "tracks": [
+        "Track 1",
+        "Track 2",
+        "Track 3",
+        "Track 4",
+        "Track 5"
+      ]
+    },
+    {
+      "title": "Album 3 Title",
+      "artist": "Artist 3 Name",
+      "year": "Year 3",
+      "tracks": [
+        "Track 1",
+        "Track 2",
+        "Track 3",
+        "Track 4",
+        "Track 5"
+      ]
+    }
+  ]
+}
